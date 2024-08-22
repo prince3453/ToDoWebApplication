@@ -1,4 +1,4 @@
 clean
 eat
-drink
 study
+gym
