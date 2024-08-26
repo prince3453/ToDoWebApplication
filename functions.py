@@ -1,9 +1,11 @@
-def file_write(todos):
-    with open("todos.txt", "w") as file:
+FILEPATH = "todos.txt"
+
+def file_write(todos, filepath = FILEPATH):
+    with open(filepath, "w") as file:
         file.writelines(todos)
 
-def file_read():
-    with open("todos.txt", "r") as file:
+def file_read(filepath = FILEPATH):
+    with open(filepath, "r") as file:
         todos = file.readlines()
     return todos
 
