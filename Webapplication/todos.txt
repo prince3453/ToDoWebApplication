@@ -1,10 +1,9 @@
 clean
-eat
 study
 french
-Gym leg day
 Master Python
 Clean the Bag
 Doing Yoga
-Bake a Cake
-Soda Maker
+Gym leg Day
+Eat
+Clean the BackYard
