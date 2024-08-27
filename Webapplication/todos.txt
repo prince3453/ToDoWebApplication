@@ -1,0 +1,6 @@
+clean
+eat
+study
+french
+Gym leg day
+Master Python
