@@ -1,4 +1,4 @@
-FILEPATH = "todos.txt"
+FILEPATH = "../todos.txt"
 
 def file_write(todos, filepath = FILEPATH):
     with open(filepath, "w") as file:
