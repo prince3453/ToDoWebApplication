@@ -7,8 +7,7 @@ def add_todo():
     todos.append(todo)
     functions.file_write(todos)
 
-st.title("My Todo App")
-st.subheader("My Todo App")
+st.title("Todo App")
 st.write("The app is for everyday work")
 
 for index,todo in enumerate(todos):
