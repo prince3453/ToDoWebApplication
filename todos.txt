@@ -2,5 +2,8 @@ clean
 eat
 study
 french
-gym
+Gym leg day
 Master Python
+Learning
+learning french
+Maths
